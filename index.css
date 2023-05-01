@@ -1,0 +1,14 @@
+body {
+
+ background-image: url("../imag_tucuman/paisaje_tucuman.jpg");
+ background-repeat: no-repeat;
+ background-position:center;
+ border: 10px solid black;
+ border-color: 10px solid black;
+ background-size: cover;
+ padding-right: 50px;
+text-align: center;
+width: 100% 100% ;
+margin-left: 10px;
+}
+#lateral { width: 1px; }
